@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Elis Giuliana Alzurut</h1>
 <h3 align="center">I'am a Front End Developer with a special connection to the amazing world of Graphic Design</h3>
 
-## Frond-end Development !!!
-<h4 align="center">Software engineering student with knowledge in Photoshop, Illustrator, Figma and basic adobe XD, I'm a developer front end in javascript html and CSS, I really want to learn more about technology and programming languages.</h4>
+
+<h4 align="center"> My motivation and interests in the tech world have led me to seek new challenges outside my comfort zone helping me in my personal growth.
+  I'm a graphic designer with knowledge in Photoshop, Illustrator, Figma and basic adobe XD, I'm a developer front end in javascript, html and CSS.
+ </h4>
 
 ### <img src="https://i.pinimg.com/originals/2d/a9/bd/2da9bdcb0074d4d14066640894234aa7.gif" width="50">A little more about me...
 
@@ -12,14 +14,14 @@ const Giulialzurut = {
   💬askMeAbout: ["videogames", "Art", "TVseries", "Music", "coffee", "POPculture", "everything in general"],
   👨‍💻code: ["Javascript", "HTML", "CSS"],
   ⚡otherCode: ["boostrap", "fireBase"],
-  ⭐️desing: ["Visual studio code", "Figma", "ilustrator", "photoshop", adobeXD, sublime text],
+  ⭐️desing: ["Visual studio code", "Figma", "ilustrator", "photoshop", "adobeXD", "sublime text"],
   🌱IamCurrentlylearning: ["React.js","node.js"]
 }
 ```
 ***
 
 
-Mi nombre es elis giuliana alzurut suarez , soy venezolana  y resido en chile desde hace 4 años , egresé de la universidad como diseñador grafico, soy una persona autodidacta, proactiva, y me adapto con facilidad; Mi motivación  e intereses en el mundo tech me ha llevado a buscar nuevos desafios fuera de mi zona de confort
+Mi nombre es Elis Giuliana Alzurut suarez , soy venezolana  y resido en chile desde hace 4 años , egresé de la universidad como diseñador gráfico, soy una persona autodidacta, proactiva, y me adapto con facilidad; Mi motivación  e intereses en el mundo tech me ha llevado a buscar nuevos desafios fuera de mi zona de confort
 que me ayudaran en mi crecimiento personal ✨
    
 
@@ -29,7 +31,7 @@ que me ayudaran en mi crecimiento personal ✨
   
   
  * 👨‍💻 GitHub [@Elisalilith](https://github.com/Elisalilith)
- * 📫 Linkedin  https://www.linkedin.com/in/giuliana-alzurut-27357a13a//)
+ * 📫 Linkedin  (https://www.linkedin.com/in/giuliana-alzurut-27357a13a/)
 
 
 <!--
