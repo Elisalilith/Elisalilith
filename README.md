@@ -17,7 +17,7 @@ const Giulialzurut = {
 }
 ```
 ***
-<img src ="https://i.pinimg.com/236x/cc/45/1d/cc451df4f04ae2c39684deca360120e9.jpg" width="320" align="left">
+
 
 Mi nombre es elis giuliana alzurut suarez , soy venezolana  y resido en chile desde hace 4 años , egresé de la universidad como diseñador grafico, soy una persona autodidacta, proactiva, y me adapto con facilidad; Mi motivación  e intereses en el mundo tech me ha llevado a buscar nuevos desafios fuera de mi zona de confort
 que me ayudaran en mi crecimiento personal ✨
@@ -26,6 +26,8 @@ que me ayudaran en mi crecimiento personal ✨
 <h3 align="left">✨ Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 ***
+  
+  
  * 👨‍💻 GitHub [@Elisalilith](https://github.com/Elisalilith)
  * 📫 Linkedin  https://www.linkedin.com/in/giuliana-alzurut-27357a13a//)
 
